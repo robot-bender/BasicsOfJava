@@ -16,7 +16,7 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("print coś tam");
             System.out.println("print coś tam");
-
+            System.out.println("print coś tam");
         }
     }
 }
