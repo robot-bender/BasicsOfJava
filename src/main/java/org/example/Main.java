@@ -17,6 +17,7 @@ public class Main {
             System.out.println("print coś tam");
             System.out.println("print coś tam");
             System.out.println("print coś tam");
+            System.out.println("print coś tam");
         }
     }
 }
